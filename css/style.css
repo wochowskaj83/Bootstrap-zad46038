@@ -1,15 +1,12 @@
 
-
-.tlo { display: inline-block;
+.tlo { 
+   display: inline-block;
     width: 100px; 
-    height:100px; 
-    border-radius: 50%;
- 
-}
+    height:100px;
+} 
 
 
 .icons {
    display: inline-block;
    filter: invert(88%) sepia(79%) saturate(6281%) hue-rotate(289deg) brightness(102%) contrast(143%);
 }
- 
